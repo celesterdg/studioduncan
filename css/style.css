@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid #carouselExampleIndicators1 {
+    margin-bottom: 50px;
+}
+.container-fluid .row {
+    margin-bottom: 25px;
+}
+.container-fluid .row2 {
+    margin-bottom: 50px;
+}
+.container-fluid .card-footer.text-muted {
+    margin-top: 50px;
+}
+.container-fluid .container-fluid {
+    margin-bottom: 50px;
+}
+#clothingnavcontent1 #home1 p {
+    padding-top: 10px;
+}
+.carousel-item .carousel-caption h5 {
+    color: #FFFFFF;
+    text-shadow: 0 0 20px #000000;
+}
+.carousel-inner .carousel-item .carousel-caption {
+    text-shadow: 0 0 8px #000000;
+}
+#clothingnavcontent1 #paneTwo1 p {
+    padding-top: 10px;
+}
+.container-fluid .container-fluid #clothingnavcontent1 {
+    padding-top: 10px;
+}
+.container-fluid #clothingnavcontent1 #tabDropDownTwo1 {
+    padding-top: 10px;
+}
+.container-fluid #clothingnavcontent1 #tabDropDownOne1 {
+    padding-top: 10px;
+}
+#serv h3 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#salud {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.container-fluid .container-fluid {
+    margin-top: 50px;
+}
+#contact .card.col-md-4 .card-header {
+    padding-top: 25px;
+    margin-top: 10px;
+    text-align: center;
+}
+.list-group-item ul img {
+}
+.carousel-inner .carousel-item.active .d-block.mx-auto {
+}
+.carousel-inner .carousel-item .d-block.mx-auto {
+    background-color: #C0C0C0;
+}
+.container-fluid h2 {
+    margin-top: 25px;
+    background-color: #8B8A8A;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 11px;
+    padding-left: 25px;
+}
+.container-fluid img {
+    margin-top: 15px;
+}
+
+.container-fluid {
+    padding-left: 25px;
+    margin-bottom: 25px;
+    padding-top: 20px;
+}
+#salon .row .container-fluid {
+}
+.boton {
+}
